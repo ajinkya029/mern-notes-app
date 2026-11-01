@@ -95,7 +95,7 @@ mern-notes-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-notes-app.git
+git clone https://github.com/ajinkya029/mern-notes-app.git
 ```
 
 ### 2. Navigate to the Project Directory
